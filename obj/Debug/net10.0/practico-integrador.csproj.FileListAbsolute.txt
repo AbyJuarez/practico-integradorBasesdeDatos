@@ -51,6 +51,7 @@ C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practic
 C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practico-integrador.AssemblyInfoInputs.cache
 C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practico-integrador.AssemblyInfo.cs
 C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practico-integrador.csproj.CoreCompileInputs.cache
+C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practico-integrador.sourcelink.json
 C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practico.5AF28A92.Up2Date
 C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\practico-integrador.dll
 C:\Users\juare\OneDrive\Documentos\practico-integrador\obj\Debug\net10.0\refint\practico-integrador.dll

@@ -313,10 +313,10 @@ public class AccesoSqlServer : IAccesoDatos
 // =================================================================
 class Program
 {
-    static void Main()
+    static void MainViejo()
     {
         // ---------------------------------------------------------
-        // RUTH: Cambiá acá para elegir qué motor querés correr:
+        
         // Opcion 1: new AccesoPostgres()
         // Opcion 2: new AccesoMySql()
         // Opcion 3: new AccesoSqlServer()
